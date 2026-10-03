@@ -21,6 +21,9 @@ The dataset was obtained from the following sources:
 
 For the supervised classification experiments, the dataset is split into training and test sets, with class balancing and image augmentation applied where appropriate.
 
+### Dataset Samples
+
+![Sample Images](results/sample-images.png)
 ---
 
 # Projects
@@ -105,10 +108,6 @@ Hyperparameter optimization is also performed for several models.
 The models are evaluated using classification metrics and ROC curves.
 
 The ROC analysis reports AUC values for the evaluated models, with the plotted results ranging from approximately **0.88 to 0.96**.
-
-### Dataset Samples
-
-![Sample Images](results/sample-images.png)
 
 ### ROC Curves
 
